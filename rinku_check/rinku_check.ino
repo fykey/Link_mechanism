@@ -1,3 +1,7 @@
+//参考にしたサイト: https://okasho-engineer.com/rotoryencoder-calculate-angle/
+
+int joy_x = 0;
+int joy_x = 0;
 int joy_x = 0;
 int joy_y = 1;
 int val1,val0;
